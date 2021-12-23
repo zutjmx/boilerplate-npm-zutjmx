@@ -1,6 +1,6 @@
 {
 	"name": "boiler-template-zutjmx",
-	"description": "App para lección de FreeCodeCamp",
+	"description": "App para lección de FreeCodeCamp, se publica en <https://boilerplate-npm-zutjmx.herokuapp.com/>",
 	"author": "Jesús Zúñiga Trejo <zutjmx@gmail.com>",
 	"version": "1.0.0",
 	"dependencies": {
