@@ -1,6 +1,7 @@
 {
-	"name": "Jesús Zúñiga Trejo",
+	"name": "boiler-template-zutjmx",
 	"description": "App para lección de FreeCodeCamp",
+	"author": "Jesús Zúñiga Trejo <zutjmx@gmail.com>",
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
