@@ -1,5 +1,7 @@
 {
 	"name": "Jesús Zúñiga Trejo",
+	"description": "App para lección de FreeCodeCamp",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
