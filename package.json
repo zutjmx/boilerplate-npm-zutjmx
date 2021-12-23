@@ -11,8 +11,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"random-js": "^2.1.0",
-		"moment": "^2.x.x"
+		"random-js": "^2.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
